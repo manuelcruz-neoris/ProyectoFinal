@@ -4,3 +4,5 @@
 
 * Los datos fueron obtenidos del sitio web Kaggle : https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 
+* Para entrenamiento del modelo es utilizada la libreria pySpark ML
+
